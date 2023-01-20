@@ -25,7 +25,7 @@ public static void main(String[] args) throws Throwable {
 		File dest=new File("C:\\Users\\sai\\Desktop\\17Sep Screenshot\\Myntra.jpg");
 		//Use Copy Method 
 		Files.copy(src, dest);
-	  system.out.println("commnets from Github by Team Leader")
+	  system.out.println("commnets from Github by Team Leader");
 		
 	
 		
